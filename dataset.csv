@@ -1,0 +1,195 @@
+question,label
+so luong tin chi luan van,1
+so luong tin chi luan van tot nghiep,1
+so tin chi cua luan van,1
+so tin chi cua luan van tot nghiep,1
+tin chi luan van,1
+tin chi luan van tot nghiep,1
+luan van tuong duong bao nhieu tin chi,1
+luan van tot nghiep tuong duong bao nhieu tin chi,1
+luan van bang bao nhieu tin chi,1
+luan van tot nghiep bang bao nhieu tin chi,1
+sau khi hoan thanh luan van phai lam gi,2
+sau khi hoan thanh luan van tot nghiep phai lam gi,2
+thanh vien hoi dong bao ve,2
+thanh vien hoi dong bao ve luan van,2
+thanh vien hoi dong bao ve luan van tot nghiep,2
+hoi dong bao ve bao gom nhung ai,2
+hoi dong bao ve luan van bao gom nhung ai,2
+hoi dong bao ve luan van tot nghiep bao gom nhung ai,2
+hoi dong bao ve luan van tot nghiep,2
+hoi dong bao ve,2
+bao ve luan van,2
+bao ve luan van tot nghiep,2
+diem luan van,3
+dien luan van tot nghiep,3
+cach tinh diem luan van,3
+cach tinh diem luan van tot nghiep,3
+tinh diem luan van nhu the nao,3
+tinh diem luan van tot nghiep nhu the nao,3
+tinh diem luan van,3
+tinh diem luan van tot nghiep,3
+lam the nao de tinh diem luan van,3
+lam the nao de tinh diem luan van tot nghiep,3
+so luong tin chi tieu luan,4
+so luong tin chi tieu luan tot nghiep,4
+so tin chi cua tieu luan,4
+so tin chi cua tieu luan tot nghiep,4
+tin chi tieu luan,4
+tin chi tieu luan tot nghiep,4
+tieu luan tuong duong bao nhieu tin chi,4
+tieu luan tot nghiep tuong duong bao nhieu tin chi,4
+tieu luan bang bao nhieu tin chi,4
+tieu luan tot nghiep bang bao nhieu tin chi,4
+ai cham diem tieu luan,5
+ai cham diem tieu luan tot nghiep,5
+tieu luan do ai cham diem,5
+tieu luan tot nghiep do ai cham diem,5
+cham diem tieu luan,5
+cham diem tieu luan tot nghiep,5
+tieu luan co can phai bao ve truoc hoi dong khong,5
+tieu luan tot nghiep co can phai bao ve truoc hoi dong khong,5
+co can phai bao ve tieu luan truoc hoi dong khong,5
+co can phai bao ve tieu luan tot nghiep truoc hoi dong khong,5
+sinh vien co the khong lam luan van khong,6
+sinh vien co the khong lam luan van tot nghiep khong,6
+co the khong lam luan van khong,6
+co the khong lam luan van tot nghiep khong,6
+sinh vien co the khong lam tieu luan khong,6
+sinh vien co the khong lam tieu luan tot nghiep khong,6
+co the khong lam tieu luan khong,6
+co the khong lam tieu luan tot nghiep khong,6
+can lam gi de tich luy tin chi tot nghiep neu khong lam luan van,6
+can lam gi de tich luy tin chi tot nghiep neu khong lam luan van tot nghiep,6
+can lam gi de tich luy tin chi tot nghiep neu khong lam tieu luan,6
+can lam gi de tich luy tin chi tot nghiep neu khong lam tieu luan tot nghiep,6
+lam sao de nhan de tai luan van,7
+lam sao de nhan de tai luan van tot nghiep,7
+lam sao de nhan de tai tieu luan,7
+lam sao de nhan de tai tieu luan tot nghiep,7
+cach nhan de tai luan van,7
+cach nhan de tai luan van tot nghiep,7
+cach nhan de tai tieu luan,7
+cach nhan de tai tieu luan tot nghiep,7
+lam the nao de nhan de tai luan van,7
+lam the nao de nhan de tai luan van tot nghiep,7
+lam the nao de nhan de tai tieu luan,7
+lam the nao de nhan de tai tieu luan tot nghiep,7
+nhan de tai luan van nhu the nao,7
+nhan de tai luan van tot nghiep nhu the nao,7
+nhan de tai tieu luan nhu the nao,7
+nhan de tai tieu luan tot nghiep nhu the nao,7
+lam luan van co can phai dang ky hoc phan khong,8
+lam luan van tot nghiep co can phai dang ky hoc phan khong,8
+lam tieu  luan co can phai dang ky hoc phan  khong,8
+lam tieu  luan tot nghiep co can phai dang ky hoc phan  khong,8
+co can phai dang ky hoc phan de lam luan van khong,8
+co can phai dang ky hoc phan de lam luan van tot nghiep khong,8
+co can phai dang ky hoc phan de lam tieu luan khong,8
+co can phai dang ky hoc phan de lam tieu luan tot nghiep khong,8
+co bat buoc dang ky hoc phan de lam luan van khong,8
+co bat buoc dang ky hoc phan de lam luan van tot nghiep khong,8
+co bat buoc dang ky hoc phan de lam tieu luan khong,8
+co bat buoc dang ky hoc phan de lam tieu luan tot nghiep khong,8
+nhan diem kem cua luan van thi phai lam sao,9
+nhan diem kem cua luan van tot nghiep thi phai lam sao,9
+nhan diem kem cua tieu luan phai lam sao,9
+nhan diem kem cua tieu luan tot nghiep phai lam sao,9
+co the dang ky lam lai luan van khong ,9
+co the dang ky lam lai luan van tot nghiep khong ,9
+co the dang ky lam lai tieu luan khong,9
+co the dang ky lam lai tieu luan tot nghiep khong,9
+co the dang ky cac hoc phan thay the neu bi diem F luan van khong,9
+co the dang ky cac hoc phan thay the neu bi diem F luan van tot nghiep khong,9
+co the dang ky cac hoc phan thay the neu bi diem F tieu luan khong,9
+co the dang ky cac hoc phan thay the neu bi diem F tieu luan tot nghiep khong,9
+bi diem F luan van phai lam sao,9
+bi diem F luan van tot nghiep phai lam sao,9
+bi diem F tieu luan phai lam sao,9
+bi diem F tieu luan tot nghiep phai lam sao,9
+dieu kien cong nhan tot nghiep,10
+nhung dieu kien cong nhan tot nghiep,10
+dieu kien xet tot nghiep,10
+tot nghiep can nhung gi,10
+tot nghiep can dieu kien gi,10
+dieu kien de tot nghiep,10
+dieu kien de xet tot nghiep,10
+xet tot nghiep can nhung dieu kien gi,10
+diem trung binh tich luy bao nhieu de duoc xet cong nhan tot nghiep,10
+diem trung binh tich luy can bao nhieu de tot nghiep,10
+muc diem trung binh tich luy de xet cong nhan tot nghiep,10
+muc diem giao duc quoc phong an ninh de xet cong nhan tot nghiep,10
+diem giao duc quoc phong an ninh can thiet de tot nghiep,10
+thoi gian xet tot nghiep,11
+xet tot nghiep vao thoi gian nao,11
+nhung thang xet tot nghiep,11
+nhan bang tot nghiep,11
+thoi gian nhan bang tot nghiep,11
+le trao bang tot nghiep dien ra vao thoi gian nao,11
+thoi gian dien ra le trao bang tot nghiep,11
+le trao bang tot nghiep,11
+bang tot nghiep,11
+dang ky xet tot nghiep,12
+dang ky xet tot nghiep nhu the nao,12
+lam the nao de dang ky xet tot nghiep,12
+cach dang ky xet tot nghiep,12
+lam sao de dang ky xet tot nghiep,12
+lam the nao de dang ky xet tot nghiep,12
+hoi dong xet tot nghiep,13
+ai chiu trach nhiem xet tot nghiep,13
+ai la nguoi xet tot nghiep,13
+nhung nguoi chiu trach nhiem xet tot nghiep,13
+xet tot nghiep la trach nhiem cua ai,13
+xet tot nghiep la nhiem vu cua ai,13
+ai cong nhan sinh vien du dieu kien tot nghiep,13
+trach nhiem cong nhan sinh vien du dieu kien tot nghiep la cua ai,13
+nhiem vu cong nhan sinh vien du dieu kien tot nghiep la cua ai,13
+ai la nguoi quyet d?nh cong nhan tot nghiep,13
+quyet dinh cong nhan tot nghiep thuoc ve ai,13
+ai tham dinh dieu kien tot nghiep cua sinh vien,14
+tham dinh dieu kien tot nghiep,14
+tham dinh dieu kien tot nghiep la cong viec cua ai,14
+tham dinh dieu kien tot nghiep la trach nhiem cua ai,14
+ai ky quyet dinh cong nhan tot nghiep,14
+quyet dinh cong nhan tot nghiep,14
+co can nop phi de nhan ban sao bang tot nghiep khong,15
+bao san bang tot nghiep,15
+du dieu kien tot nghiep ,15
+dap ung dieu kien tot nghiep,15
+nhan quyet dinh cong nhan tot nghiep,15
+nhan bang diem sau khi tot nghiep,15
+nhan bang tot nghiep sau khi tot nghiep,15
+het han dao tao,16
+qua han dao tao,16
+het thoi gian toi da duoc phep hoc,16
+het han dao tao se bi gi,16
+het han dao tao co anh huong gi khong,16
+qua han dao tao se bi gi,16
+qua han dao tao co anh huong gi khong,16
+khong du dieu kien tot nghiep sau khi het han dao tao se bi gi,16
+no mon quoc phong sau khi het han dao tao,16
+no mon the chat sau khi het thoi gian dao tao,16
+no mon giao duc quoc phong va an ninh sau khi het thoi gian dao tao,16
+no mon giao duc the chat sau khi het thoi gian dao tao,16
+xac dinh hang tot nghiep nhu the nao,17
+cach xac dinh hang tot nghiep,17
+xac dinh hang tot nghiep dua vao tieu chi nao,17
+diem trung binh tich luy bao nhieu de dat loai xuat sac,17
+diem trung binh tich luy bao nhieu de dat loai gioi,17
+diem trung binh tich luy bao nhieu de dat loai kha,17
+tot nghiep loai xuat sac,17
+tot nghiep loai gioi,17
+tot nghiep loai kha,17
+thu tuc ra truong,18
+thuc hien thu tuc ra truong o dau,18
+noi thuc hien thu tuc ra truong,18
+xu li khi mat bang tot nghiep,19
+bi mat bang tot nghiep,19
+bang tot nghiep bi hong,19
+bang tot nghiep bi hu,19
+cap ban sao bang tot nghiep,19
+dung lai,20
+dung,20
+ket thuc,20
+ngung lai,20
+ngung,20
